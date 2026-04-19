@@ -3,7 +3,7 @@
 Welcome to my professional repository. This space serves as a comprehensive collection of my web development journey, ranging from core academic lab assignments to advanced AI-integrated applications.
 
 ## 👤 About Me
-* **Name:** Naik Zahid
+* **Name:** Nek Zahid
 * **Role:** Junior Fullstack Developer | IT Student (6th Semester)
 * **Objective:** Building scalable web solutions with a focus on React, Node.js, and AI integration.
 
@@ -38,4 +38,4 @@ Welcome to my professional repository. This space serves as a comprehensive coll
 * **GitHub:** [nekzahid123-afg](https://github.com/nekzahid123-afg)
 
 ---
-*© 2026 Naik Zahid - MIT License*
+*© 2026 Nek Zahid - MIT License*
