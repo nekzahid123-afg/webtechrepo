@@ -34,7 +34,7 @@ Welcome to my professional repository. This space serves as a comprehensive coll
 ---
 
 ## 📫 Connect with Me
-* **University:** Affiliate College of University of the Punjab
+* **University:**Akhuwat College Kasur(Affiliated with University of the Punjab)
 * **GitHub:** [nekzahid123-afg](https://github.com/nekzahid123-afg)
 
 ---
